@@ -4,3 +4,6 @@
 # Except for these files
 !*README.md
 !.gitignore
+# Except the discussion folder
+!Discussions/
+!*.html
