@@ -2,8 +2,8 @@
 *
 
 # Except for these files
-!*README.md
+!README.md
 !.gitignore
 # Except the discussion folder
 !Discussions/
-!*.html
+!Discussions/*.html
