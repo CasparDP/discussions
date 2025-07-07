@@ -7,3 +7,5 @@
 # Except the discussion folder
 !Discussions/
 !Discussions/*.html
+!index.html
+/.quarto/
