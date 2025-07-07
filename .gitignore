@@ -5,7 +5,11 @@
 !README.md
 !.gitignore
 # Except the discussion folder
-!Discussions/
-!Discussions/*.html
-!index.html
+# !Discussions/
+# !Discussions/*.html
+# !index.html
+!docs/
+!docs/index.html
+!docs/*.html
+
 /.quarto/
