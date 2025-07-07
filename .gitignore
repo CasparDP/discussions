@@ -9,6 +9,7 @@
 # !Discussions/*.html
 # !index.html
 !docs/
+!docs/*
 !docs/index.html
 !docs/*.html
 
