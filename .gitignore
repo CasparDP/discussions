@@ -13,4 +13,9 @@
 !docs/index.html
 !docs/*.html
 
+# Withhold the ESSEC/Zipperer deck from publication (unpublished solo JMP)
+docs/essec_environmental_info.html
+
 /.quarto/
+
+**/*.quarto_ipynb
